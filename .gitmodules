@@ -1,0 +1,4 @@
+[submodule "UE/MHWords"]
+	path = UE/MHWords
+	url = git@github.com:805436085/MHWords.git
+	branch = main

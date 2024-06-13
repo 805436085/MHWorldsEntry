@@ -2,3 +2,7 @@
 	path = UE/MHWords
 	url = git@github.com:805436085/MHWords.git
 	branch = main
+[submodule "Unity/MHWorlds"]
+	path = Unity/MHWorlds
+	url = git@github.com:805436085/MHWorld_Unity.git
+	branch = main
